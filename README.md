@@ -1,4 +1,4 @@
-Hola seamos amigos
+###  Hola seamos amigos!
  🔭 I’m currently working on  aprender cosas nuevas
 - 🌱 I’m currently learning  fundamentos de programacion web
 - 👯 I’m looking to collaborate on  ser mejor  persona 
